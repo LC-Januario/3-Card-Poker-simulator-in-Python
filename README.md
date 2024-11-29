@@ -1,5 +1,5 @@
 # 3-Card-Poker-simulator-in-Python
-A simulator that plays a simplified version of poker with 2 players and prints out both players' hands, what "score" they had and who won
+A simulator that plays a simplified version of poker with 2 players and prints out both players' hands, what "score" they had and who won. Play the simulator here: https://colab.research.google.com/drive/1024VCfR24Uz05hfE5_xxK5HWi2ZpTDPz?usp=sharing
 
 ## Table of Contents
 
